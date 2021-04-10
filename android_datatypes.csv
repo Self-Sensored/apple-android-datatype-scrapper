@@ -1,0 +1,304 @@
+﻿category,description,link,datatype
+BLOOD_GLUCOSE_SPECIMEN_SOURCE_CAPILLARY_BLOOD,Glucose was measured in capillary blood.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BLOOD_GLUCOSE_SPECIMEN_SOURCE_CAPILLARY_BLOOD,HealthDataTypes
+BLOOD_GLUCOSE_SPECIMEN_SOURCE_INTERSTITIAL_FLUID,Glucose was measured in interstitial fluid.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BLOOD_GLUCOSE_SPECIMEN_SOURCE_INTERSTITIAL_FLUID,HealthDataTypes
+BLOOD_GLUCOSE_SPECIMEN_SOURCE_PLASMA,Glucose was measured in plasma.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BLOOD_GLUCOSE_SPECIMEN_SOURCE_PLASMA,HealthDataTypes
+BLOOD_GLUCOSE_SPECIMEN_SOURCE_SERUM,Glucose was measured in serum.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BLOOD_GLUCOSE_SPECIMEN_SOURCE_SERUM,HealthDataTypes
+BLOOD_GLUCOSE_SPECIMEN_SOURCE_TEARS,Glucose was measured in tears.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BLOOD_GLUCOSE_SPECIMEN_SOURCE_TEARS,HealthDataTypes
+BLOOD_GLUCOSE_SPECIMEN_SOURCE_WHOLE_BLOOD,Glucose was measured from whole blood.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BLOOD_GLUCOSE_SPECIMEN_SOURCE_WHOLE_BLOOD,HealthDataTypes
+BLOOD_PRESSURE_MEASUREMENT_LOCATION_LEFT_UPPER_ARM,Blood pressure measurement location constant for the left upper arm.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BLOOD_PRESSURE_MEASUREMENT_LOCATION_LEFT_UPPER_ARM,HealthDataTypes
+BLOOD_PRESSURE_MEASUREMENT_LOCATION_LEFT_WRIST,Blood pressure measurement location constant for the left wrist.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BLOOD_PRESSURE_MEASUREMENT_LOCATION_LEFT_WRIST,HealthDataTypes
+BLOOD_PRESSURE_MEASUREMENT_LOCATION_RIGHT_UPPER_ARM,Blood pressure measurement location constant for the right upper arm.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BLOOD_PRESSURE_MEASUREMENT_LOCATION_RIGHT_UPPER_ARM,HealthDataTypes
+BLOOD_PRESSURE_MEASUREMENT_LOCATION_RIGHT_WRIST,Blood pressure measurement location constant for the right wrist.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BLOOD_PRESSURE_MEASUREMENT_LOCATION_RIGHT_WRIST,HealthDataTypes
+BODY_POSITION_LYING_DOWN,Body position constant representing lying down.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_POSITION_LYING_DOWN,HealthDataTypes
+BODY_POSITION_SEMI_RECUMBENT,Body position constant representing semi-recumbent (partially reclining) pose.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_POSITION_SEMI_RECUMBENT,HealthDataTypes
+BODY_POSITION_SITTING,Body position constant representing sitting down.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_POSITION_SITTING,HealthDataTypes
+BODY_POSITION_STANDING,Body position constant representing standing up.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_POSITION_STANDING,HealthDataTypes
+BODY_TEMPERATURE_MEASUREMENT_LOCATION_AXILLARY,Axillary (armpit) body temperature measurement.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_TEMPERATURE_MEASUREMENT_LOCATION_AXILLARY,HealthDataTypes
+BODY_TEMPERATURE_MEASUREMENT_LOCATION_FINGER,Finger body temperature measurement.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_TEMPERATURE_MEASUREMENT_LOCATION_FINGER,HealthDataTypes
+BODY_TEMPERATURE_MEASUREMENT_LOCATION_FOREHEAD,Forehead body temperature measurement.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_TEMPERATURE_MEASUREMENT_LOCATION_FOREHEAD,HealthDataTypes
+BODY_TEMPERATURE_MEASUREMENT_LOCATION_ORAL,Oral body temperature measurement.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_TEMPERATURE_MEASUREMENT_LOCATION_ORAL,HealthDataTypes
+BODY_TEMPERATURE_MEASUREMENT_LOCATION_RECTAL,Rectal body temperature measurement.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_TEMPERATURE_MEASUREMENT_LOCATION_RECTAL,HealthDataTypes
+BODY_TEMPERATURE_MEASUREMENT_LOCATION_TEMPORAL_ARTERY,Temporal artery temperature measurement.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_TEMPERATURE_MEASUREMENT_LOCATION_TEMPORAL_ARTERY,HealthDataTypes
+BODY_TEMPERATURE_MEASUREMENT_LOCATION_TOE,Toe body temperature measurement.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_TEMPERATURE_MEASUREMENT_LOCATION_TOE,HealthDataTypes
+BODY_TEMPERATURE_MEASUREMENT_LOCATION_TYMPANIC,Tympanic (ear) body temperature measurement.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_TEMPERATURE_MEASUREMENT_LOCATION_TYMPANIC,HealthDataTypes
+BODY_TEMPERATURE_MEASUREMENT_LOCATION_VAGINAL,Vaginal body temperature measurement.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_TEMPERATURE_MEASUREMENT_LOCATION_VAGINAL,HealthDataTypes
+BODY_TEMPERATURE_MEASUREMENT_LOCATION_WRIST,Wrist body temperature measurement.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#BODY_TEMPERATURE_MEASUREMENT_LOCATION_WRIST,HealthDataTypes
+CERVICAL_DILATION_CLOSED,Closed cervix.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_DILATION_CLOSED,HealthDataTypes
+CERVICAL_DILATION_MEDIUM,Partially open cervix.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_DILATION_MEDIUM,HealthDataTypes
+CERVICAL_DILATION_OPEN,Fully open cervix.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_DILATION_OPEN,HealthDataTypes
+CERVICAL_FIRMNESS_FIRM,Firm cervical firmness.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_FIRMNESS_FIRM,HealthDataTypes
+CERVICAL_FIRMNESS_MEDIUM,Medium cervical firmness.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_FIRMNESS_MEDIUM,HealthDataTypes
+CERVICAL_FIRMNESS_SOFT,Soft cervical firmness.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_FIRMNESS_SOFT,HealthDataTypes
+CERVICAL_MUCUS_AMOUNT_HEAVY,Heavy cervical mucus amount.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_MUCUS_AMOUNT_HEAVY,HealthDataTypes
+CERVICAL_MUCUS_AMOUNT_LIGHT,Light cervical mucus amount.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_MUCUS_AMOUNT_LIGHT,HealthDataTypes
+CERVICAL_MUCUS_AMOUNT_MEDIUM,Medium cervical mucus amount.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_MUCUS_AMOUNT_MEDIUM,HealthDataTypes
+CERVICAL_MUCUS_TEXTURE_CREAMY,Creamy cervical mucus texture.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_MUCUS_TEXTURE_CREAMY,HealthDataTypes
+CERVICAL_MUCUS_TEXTURE_DRY,Dry cervical mucus texture.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_MUCUS_TEXTURE_DRY,HealthDataTypes
+CERVICAL_MUCUS_TEXTURE_EGG_WHITE,Egg white cervical mucus texture.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_MUCUS_TEXTURE_EGG_WHITE,HealthDataTypes
+CERVICAL_MUCUS_TEXTURE_STICKY,Sticky cervical mucus texture.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_MUCUS_TEXTURE_STICKY,HealthDataTypes
+CERVICAL_MUCUS_TEXTURE_WATERY,Watery cervical mucus texture.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_MUCUS_TEXTURE_WATERY,HealthDataTypes
+CERVICAL_POSITION_HIGH,High cervical position.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_POSITION_HIGH,HealthDataTypes
+CERVICAL_POSITION_LOW,Low cervical position.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_POSITION_LOW,HealthDataTypes
+CERVICAL_POSITION_MEDIUM,Medium cervical position.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#CERVICAL_POSITION_MEDIUM,HealthDataTypes
+FIELD_TEMPORAL_RELATION_TO_MEAL_AFTER_MEAL,Reading was taken after an unspecified meal.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#FIELD_TEMPORAL_RELATION_TO_MEAL_AFTER_MEAL,HealthDataTypes
+FIELD_TEMPORAL_RELATION_TO_MEAL_BEFORE_MEAL,Reading was taken before an unspecified meal.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#FIELD_TEMPORAL_RELATION_TO_MEAL_BEFORE_MEAL,HealthDataTypes
+FIELD_TEMPORAL_RELATION_TO_MEAL_FASTING,Reading was taken during a fasting period.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#FIELD_TEMPORAL_RELATION_TO_MEAL_FASTING,HealthDataTypes
+FIELD_TEMPORAL_RELATION_TO_MEAL_GENERAL,Reading was not taken immediately before or after eating.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#FIELD_TEMPORAL_RELATION_TO_MEAL_GENERAL,HealthDataTypes
+MENSTRUAL_FLOW_HEAVY,Heavy menstrual flow.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#MENSTRUAL_FLOW_HEAVY,HealthDataTypes
+MENSTRUAL_FLOW_LIGHT,Light menstrual flow.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#MENSTRUAL_FLOW_LIGHT,HealthDataTypes
+MENSTRUAL_FLOW_MEDIUM,Medium menstrual flow.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#MENSTRUAL_FLOW_MEDIUM,HealthDataTypes
+MENSTRUAL_FLOW_SPOTTING,Spotting menstrual flow.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#MENSTRUAL_FLOW_SPOTTING,HealthDataTypes
+OVULATION_TEST_RESULT_NEGATIVE,Negative ovulation test result.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#OVULATION_TEST_RESULT_NEGATIVE,HealthDataTypes
+OVULATION_TEST_RESULT_POSITIVE,Positive ovulation test result.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#OVULATION_TEST_RESULT_POSITIVE,HealthDataTypes
+OXYGEN_SATURATION_MEASUREMENT_METHOD_PULSE_OXIMETRY,Blood oxygen saturation measured by pulse oximetry.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#OXYGEN_SATURATION_MEASUREMENT_METHOD_PULSE_OXIMETRY,HealthDataTypes
+OXYGEN_SATURATION_SYSTEM_PERIPHERAL_CAPILLARY,Blood oxygen saturation measured in peripheral capilliaries.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#OXYGEN_SATURATION_SYSTEM_PERIPHERAL_CAPILLARY,HealthDataTypes
+OXYGEN_THERAPY_ADMINISTRATION_MODE_NASAL_CANULA,Oxygen therapy administration by nasal canula.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#OXYGEN_THERAPY_ADMINISTRATION_MODE_NASAL_CANULA,HealthDataTypes
+TEMPORAL_RELATION_TO_SLEEP_BEFORE_SLEEP,Before sleep.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#TEMPORAL_RELATION_TO_SLEEP_BEFORE_SLEEP,HealthDataTypes
+TEMPORAL_RELATION_TO_SLEEP_DURING_SLEEP,During sleep.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#TEMPORAL_RELATION_TO_SLEEP_DURING_SLEEP,HealthDataTypes
+TEMPORAL_RELATION_TO_SLEEP_FULLY_AWAKE,Fully awake.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#TEMPORAL_RELATION_TO_SLEEP_FULLY_AWAKE,HealthDataTypes
+TEMPORAL_RELATION_TO_SLEEP_ON_WAKING,After sleep.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/HealthFields#TEMPORAL_RELATION_TO_SLEEP_ON_WAKING,HealthDataTypes
+AWAKE,The user is in an awake period in the middle of sleep session.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/SleepStages#AWAKE,SleepStagesDataTypes
+OUT_OF_BED,The user is out of their bed in the middle of a sleep session.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/SleepStages#OUT_OF_BED,SleepStagesDataTypes
+SLEEP,The user is sleeping.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/SleepStages#SLEEP,SleepStagesDataTypes
+SLEEP_DEEP,The user is in a deep sleep cycle.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/SleepStages#SLEEP_DEEP,SleepStagesDataTypes
+SLEEP_LIGHT,The user is in a light sleep cycle.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/SleepStages#SLEEP_LIGHT,SleepStagesDataTypes
+SLEEP_REM,The user is in a REM sleep cycle.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/SleepStages#SLEEP_REM,SleepStagesDataTypes
+AEROBICS,The user is performing aerobic exercises.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+ARCHERY,"The user is doing archery, using a bow to shoot an arrow.",https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+BADMINTON,The user is playing badminton.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+BASEBALL,The user is playing baseball.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+BASKETBALL,The user is playing basketball.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+BIATHLON,The user is practicing biathlon (combination of cross-country skiing and rifle shooting).,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+BIKING,The user is on a bicycle.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+BIKING_HAND,The user is handcycling (or handbiking).,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+BIKING_MOUNTAIN,The user is mountain biking.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+BIKING_ROAD,The user is cycling on a road or other smooth surface.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+BIKING_SPINNING,The user is indoor cycling (spinning) on a specialized stationary bike.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+BIKING_STATIONARY,The user is cycling on a stationary bike.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+BIKING_UTILITY,The user is cycling as a means of transport.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+BOXING,The user is boxing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+CALISTHENICS,The user is performing calisthenics exercises.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+CIRCUIT_TRAINING,The user is performing circuit training exercises.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+CRICKET,The user is playing cricket.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+CROSSFIT,The user is performing Crossfit exercises.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+CURLING,The user is practicing curling.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+DANCING,The user is dancing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+DIVING,"The user is diving into water, from a platform or spring board.",https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+ELEVATOR,The user is taking an elevator.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+ELLIPTICAL,The user is using an elliptical trainer or cross-trainer machine.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+ERGOMETER,The user is using an ergometer machine.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+ESCALATOR,The user is taking an escalator.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+EXTRA_STATUS,Name for the String extra containing the status of an activity.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+FENCING,The user is fencing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+FOOTBALL_AMERICAN,The user is playing American football (known as football in the United States).,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+FOOTBALL_AUSTRALIAN,The user is playing Australian-rules football.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+FOOTBALL_SOCCER,The user is playing association football (known as soccer in the United States).,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+FRISBEE_DISC,The user is playing with a Frisbee disc.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+GARDENING,The user is gardening.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+GOLF,The user is playing golf.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+GUIDED_BREATHING,The user is engaging in guided breathing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+GYMNASTICS,The user is practicing gymnastics.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+HANDBALL,The user is playing handball.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+HIGH_INTENSITY_INTERVAL_TRAINING,The user is performing high intensity interval training (HIIT).,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+HIKING,The user is hiking.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+HOCKEY,The user is playing hockey.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+HORSEBACK_RIDING,The user is horseback riding.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+HOUSEWORK,The user is doing house work.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+ICE_SKATING,The user is ice-skating.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+INTERVAL_TRAINING,The user is performing interval training.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+IN_VEHICLE,"The user is in a vehicle, such as a car.",https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+JUMP_ROPE,The user is jumping rope.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+KAYAKING,The user is kayaking.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+KETTLEBELL_TRAINING,The user is training with a kettlebell.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+KICKBOXING,The user is kickboxing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+KICK_SCOOTER,The user is riding a kick scooter.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+KITESURFING,The user is kite-surfing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+MARTIAL_ARTS,The user is practicing martial arts.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+MEDITATION,The user is meditating.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+MIME_TYPE_PREFIX,The common prefix for activity MIME types.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+MIXED_MARTIAL_ARTS,The user is practicing mixed martial arts (MMA).,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+ON_FOOT,"This constant is deprecated. Use the more specific activity (for example RUNNING, WALKING, or RUNNING_JOGGING).",https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+OTHER,"The user is performing a generic fitness activity, which isn't classified.",https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+P90X,The user is performing P90X exercises.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+PARAGLIDING,The user is paragliding.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+PILATES,The user is performing pilates exercises.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+POLO,The user is playing polo (team sport on horseback).,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+RACQUETBALL,The user is playing racquetball.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+ROCK_CLIMBING,The user is rock climbing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+ROWING,The user is rowing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+ROWING_MACHINE,The user is using a rowing machine.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+RUGBY,The user is playing rugby.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+RUNNING,The user is running.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+RUNNING_JOGGING,The user is jogging.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+RUNNING_SAND,The user is running on sand.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+RUNNING_TREADMILL,The user is running on a treadmill.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SAILING,The user is sailing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SCUBA_DIVING,The user is scuba diving.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SKATEBOARDING,The user is skateboarding.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SKATING,The user is skating.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SKATING_CROSS,The user is cross skating.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SKATING_INDOOR,The user is skating in-doors.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SKATING_INLINE,The user is inline skating (roller-blading).,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SKIING,The user is skiing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SKIING_BACK_COUNTRY,The user is back-country skiing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SKIING_CROSS_COUNTRY,The user is cross-country skiing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SKIING_DOWNHILL,The user is downhill skiing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SKIING_KITE,The user is kite skiing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SKIING_ROLLER,The user is roller skiing (non-snow).,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SLEDDING,The user is sledding.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SLEEP,The user is sleeping.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SLEEP_AWAKE,This constant is deprecated. No longer valid activity for Sessions or activity segment. See AWAKE and TYPE_SLEEP_SEGMENT,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SLEEP_DEEP,This constant is deprecated. No longer valid activity for Sessions or activity segment. SLEEP_DEEP and TYPE_SLEEP_SEGMENT,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SLEEP_LIGHT,This constant is deprecated. No longer valid activity for Sessions or activity segments. See SLEEP_LIGHT and TYPE_SLEEP_SEGMENT,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SLEEP_REM,This constant is deprecated. No longer valid activity for Sessions or activity segment. See SLEEP_REM and TYPE_SLEEP_SEGMENT,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SNOWBOARDING,The user is snowboarding.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SNOWMOBILE,The user is on a snow mobile.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SNOWSHOEING,The user is snow-shoeing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SOFTBALL,The user is playing softball.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SQUASH,The user is playing Squash.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+STAIR_CLIMBING,The user is climbing stairs.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+STAIR_CLIMBING_MACHINE,The user is using a stair-climbing machine.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+STANDUP_PADDLEBOARDING,The user is on a stand-up paddle board.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+STATUS_ACTIVE,Status indicating the activity has started.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+STATUS_COMPLETED,Status indicating the activity has ended.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+STILL,The user is still (not moving).,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+STRENGTH_TRAINING,The user is strength training.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SURFING,The user is surfing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SWIMMING,The user is swimming.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SWIMMING_OPEN_WATER,The user is swimming in open waters.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+SWIMMING_POOL,The user is swimming in a swimming pool.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+TABLE_TENNIS,The user is playing table tennis (or ping-pong).,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+TEAM_SPORTS,The user is playing a team sport.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+TENNIS,The user is playing tennis.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+TILTING,"This is a synthetic activity used to indicate that the device angle relative to gravity changed significantly between the sample immediately before and immediately after the ""tilting"" sample.",https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+TREADMILL,This constant is deprecated. Use WALKING_TREADMILL or RUNNING_TREADMILL instead.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+UNKNOWN,The current activity is not known.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+VOLLEYBALL,The user is playing volleyball.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+VOLLEYBALL_BEACH,The user is playing beach volleyball.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+VOLLEYBALL_INDOOR,The user is playing indoor volleyball.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+WAKEBOARDING,The user is wake boarding.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+WALKING,The user is walking.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+WALKING_FITNESS,"The user is walking at a moderate to high pace, for fitness.",https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+WALKING_NORDIC,The user is performing Nordic walking (with poles).,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+WALKING_STROLLER,The user is walking while pushing a stroller.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+WALKING_TREADMILL,The user is walking on a treadmill,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+WATER_POLO,The user is playing water polo.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+WEIGHTLIFTING,The user is weightlifting.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+WHEELCHAIR,The user is on a wheel chair.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+WINDSURFING,The user is wind surfing.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+YOGA,The user is performing Yoga poses.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+ZUMBA,The users is performing Zumba exercises.,https://developer.android.com/reference/java/lang/String.html,ExerciseDataTypes
+FORMAT_FLOAT,Format constant indicating the field holds float values.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#FORMAT_FLOAT,NutritionDataTypes
+FORMAT_INT32,Format constant indicating the field holds integer values.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#FORMAT_INT32,NutritionDataTypes
+FORMAT_MAP,Format constant indicating the field holds a map of string keys to values.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#FORMAT_MAP,NutritionDataTypes
+FORMAT_STRING,Format constant indicating the field holds string values.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#FORMAT_STRING,NutritionDataTypes
+MEAL_TYPE_BREAKFAST,Meal type constant representing a breakfast meal.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#MEAL_TYPE_BREAKFAST,NutritionDataTypes
+MEAL_TYPE_DINNER,Meal type constant representing a dinner meal.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#MEAL_TYPE_DINNER,NutritionDataTypes
+MEAL_TYPE_LUNCH,Meal type constant representing a lunch meal.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#MEAL_TYPE_LUNCH,NutritionDataTypes
+MEAL_TYPE_SNACK,Meal type constant representing a snack meal.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#MEAL_TYPE_SNACK,NutritionDataTypes
+MEAL_TYPE_UNKNOWN,Meal type constant representing that the meal type is unknown.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#MEAL_TYPE_UNKNOWN,NutritionDataTypes
+NUTRIENT_CALCIUM,Calcium amount in milligrams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_CALORIES,Calories in kcal.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_CHOLESTEROL,Cholesterol in milligrams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_DIETARY_FIBER,Dietary fiber in grams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_IRON,Iron amount in milligrams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_MONOUNSATURATED_FAT,Monounsaturated fat in grams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_POLYUNSATURATED_FAT,Polyunsaturated fat in grams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_POTASSIUM,Potassium in milligrams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_PROTEIN,Protein amount in grams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_SATURATED_FAT,Saturated fat in grams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_SODIUM,Sodium in milligrams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_SUGAR,Sugar amount in grams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_TOTAL_CARBS,Total carbohydrates in grams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_TOTAL_FAT,Total fat in grams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_TRANS_FAT,Trans fat in grams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_UNSATURATED_FAT,Unsaturated fat in grams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_VITAMIN_A,Vitamin A amount in International Units (IU).,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+NUTRIENT_VITAMIN_C,Vitamin C amount in milligrams.,https://developer.android.com/reference/java/lang/String.html,NutritionDataTypes
+RESISTANCE_TYPE_BARBELL,The user is using a barbell for resistance.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#RESISTANCE_TYPE_BARBELL,NutritionDataTypes
+RESISTANCE_TYPE_BODY,The user is using their own body weight for resistance.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#RESISTANCE_TYPE_BODY,NutritionDataTypes
+RESISTANCE_TYPE_CABLE,The user is using a cable for resistance.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#RESISTANCE_TYPE_CABLE,NutritionDataTypes
+RESISTANCE_TYPE_DUMBBELL,The user is using dumbells for resistance.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#RESISTANCE_TYPE_DUMBBELL,NutritionDataTypes
+RESISTANCE_TYPE_KETTLEBELL,The user is using a kettlebell for resistance.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#RESISTANCE_TYPE_KETTLEBELL,NutritionDataTypes
+RESISTANCE_TYPE_MACHINE,The user is performing the exercise in a machine.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#RESISTANCE_TYPE_MACHINE,NutritionDataTypes
+RESISTANCE_TYPE_UNKNOWN,"The resistance type is unknown, unspecified, or not represented by any canonical values.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field#RESISTANCE_TYPE_UNKNOWN,NutritionDataTypes
+FIELD_ACCURACY,The accuracy of an accompanied value (such as location).,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_ACTIVITY,"An activity type of FitnessActivities, encoded as an integer for efficiency.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_ALTITUDE,"An altitude of a location represented as a float, in meters above sea level.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_AVERAGE,An average value.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_BPM,A heart rate in beats per minute.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_CALORIES,Calories in kcal.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_CIRCUMFERENCE,This field is deprecated. There is no applicable replacement field.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_CONFIDENCE,"The confidence of an accompanied value, specified as a value between 0.0 and 100.0.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_DISTANCE,A distance in meters.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_DURATION,A field containing duration.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_EXERCISE,"A workout exercise, as represented by one of the constants in WorkoutExercises.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_FOOD_ITEM,The corresponding food item for a nutrition entry.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_HEIGHT,A height in meters.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_HIGH_LATITUDE,"A high latitude of a location bounding box represented as a float, in degrees.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_HIGH_LONGITUDE,"A high longitude of a location bounding box represented as a float, in degrees.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_INTENSITY,"Intensity of user activity, represented as a float.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_LATITUDE,"A latitude of a location represented as a float, in degrees.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_LONGITUDE,"A longitude of a location represented as a float, in degrees.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_LOW_LATITUDE,"A low latitude of a location bounding box represented as a float, in degrees.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_LOW_LONGITUDE,"A low longitude of a location bounding box represented as a float, in degrees.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_MAX,A maximum value.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_MEAL_TYPE,"Type of meal, represented as the appropriate int constant.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_MIN,A minimum value.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_NUM_SEGMENTS,A number of segments.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_NUTRIENTS,"Nutrients ingested by the user, represented as a float map of nutrient key to quantity.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_OCCURRENCES,How many occurrences of an event there were in a time range.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_PERCENTAGE,"A percentage value, between 0 and 100.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_REPETITIONS,A count of repetitions for a single set of a workout exercise.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_RESISTANCE,"The resistance of the exercise (or weight), in kg.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_RESISTANCE_TYPE,"The type of resistance used in this exercise, represented as the appropriate int constant.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_REVOLUTIONS,A count of revolutions.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_RPM,Revolutions per minute or rate per minute.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_SLEEP_SEGMENT_TYPE,Sleep Segment type defined in SleepStages.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_SPEED,A speed in meter/sec.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_STEPS,A count of steps.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_STEP_LENGTH,This field is deprecated. There is no applicable replacement field.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_VOLUME,Volume in liters.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_WATTS,Power in watts.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+FIELD_WEIGHT,A weight in kilograms.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/Field,NutritionDataTypes
+MIME_TYPE_PREFIX,"The common prefix for data type MIME types, for use in intents.",https://developer.android.com/reference/java/lang/String.html,GeneralDataTypes
+AGGREGATE_ACTIVITY_SUMMARY,"In the com.google.activity.summary data type, each data point represents a summary of all activity segments of a particular activity type over a time interval.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_BASAL_METABOLIC_RATE_SUMMARY,"In the com.google.calories.bmr.summary data type, each data point represents the average, maximum and minimum basal metabolic rate, in kcal per day, over the time interval of the data point.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_BODY_FAT_PERCENTAGE_SUMMARY,"In the com.google.body.fat.percentage.summary data type, each data point represents the average, maximum and minimum percentage over the time interval of the data point.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_CALORIES_EXPENDED,"Aggregate calories expended, in kcal, during a time interval.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_DISTANCE_DELTA,"Aggregate distance, in meters, during a time interval.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_HEART_POINTS,"In the com.google.heart_minutes.summary data type, each data point represents heart points aggregated over the query window.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_HEART_RATE_SUMMARY,"In the com.google.heart_rate.summary data type, each data point represents average, maximum and minimum beats per minute over the time interval of the data point.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_HEIGHT_SUMMARY,"In the com.google.height.summary data type, each data point represents the average, maximum and minimum height, in meters, over the time interval of the data point.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_HYDRATION,"In the com.google.hydration data type, the field_volume in the data point represents the volume, in liters, of water consumed by a user as part of a single drink.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_LOCATION_BOUNDING_BOX,"In the com.google.location.bounding_box data type, a data point represents the bounding box computed over user's location data points over a time interval.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_MOVE_MINUTES,Aggregate number of move minutes during a time interval.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_NUTRITION_SUMMARY,"In the com.google.nutrition.summary data type, each data point represents the sum of all nutrition entries over the time interval of the data point.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_POWER_SUMMARY,"In the com.google.power.summary data type, each data point represents average, maximum and minimum watts over the time interval of the data point.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_SPEED_SUMMARY,"In the com.google.speed.summary data type, each data point represents the average, maximum and minimum speed over ground, in meters/second, over the time interval of the data point.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_STEP_COUNT_DELTA,Aggregate number of steps during a time interval.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+AGGREGATE_WEIGHT_SUMMARY,"In the com.google.weight.summary data type, each data point represents the average, maximum and minimum weight, in kilograms, over the time interval of the data point.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_ACTIVITY_SEGMENT,"In the com.google.activity.segment data type, each data point represents a continuous time interval with a single activity value.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_BASAL_METABOLIC_RATE,"In the com.google.calories.bmr data type, each data point represents the basal metabolic rate of energy expenditure at rest of the user at the time of the reading, in kcal per day.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_BODY_FAT_PERCENTAGE,"In the com.google.body.fat.percentage data type, each data point represents a measurement of the total fat mass in a person's body as a percentage of the total body mass.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_CALORIES_EXPENDED,"In the com.google.calories.expended data type, each data point represents the number of calories expended, in kcal, over the time interval of the data point.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_CYCLING_PEDALING_CADENCE,"In the com.google.cycling.pedaling.cadence data type, each data point represents an instantaneous measurement of the pedaling rate in crank revolutions per minute.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_CYCLING_PEDALING_CUMULATIVE,"In the com.google.cycling.pedaling.cumulative data type, each data point represents the number of rotations taken from the start of the count.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_CYCLING_WHEEL_REVOLUTION,"In the com.google.cycling.wheel_revolution.cumulative data type, each data point represents the number of revolutions taken from the start of the count.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_CYCLING_WHEEL_RPM,"In the com.google.cycling.wheel_revolution.rpm data type, each data point represents an instantaneous measurement of the wheel in revolutions per minute.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_DISTANCE_DELTA,"In the com.google.distance.delta data type, each data point represents the distance covered, in meters, since the last reading.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_HEART_POINTS,"In the com.google.heart_minutes data type, each data point represents derived heart points.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_HEART_RATE_BPM,"In the com.google.heart_rate.bpm data type, each data point represents an instantaneous measurement of the heart rate in beats per minute.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_HEIGHT,"In the com.google.height data type, each data point represents the height of the user at the time of the reading, in meters.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_HYDRATION,"In the com.google.hydration data type, the field_volume in the data point represents the volume, in liters, of water consumed by a user as part of a single drink.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_LOCATION_SAMPLE,"In the com.google.location.sample data type, each data point represents the user's location at a given instant.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_LOCATION_TRACK,This field is deprecated. Use TYPE_LOCATION_SAMPLE instead.,https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_MOVE_MINUTES,"In the com.google.active_minutes data type, each data point represents derived active minutes.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_NUTRITION,"In the com.google.nutrition data type, each data point represents the value of all nutrients consumed as part of a meal or a food item.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_POWER_SAMPLE,"In the com.google.power.sample data type, each data point represents an instantaneous measurement of power in watts.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_SLEEP_SEGMENT,"In the com.google.sleep.segment data type, each data point represents a continuous time interval with a single sleep segment type.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_SPEED,"In the com.google.speed data type, each data point represents the instantaneous speed over ground, in meters/second.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_STEP_COUNT_CADENCE,"In the com.google.step_count.cadence data type, each data point represents an instantaneous measurement of the cadence in steps per minute.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_STEP_COUNT_DELTA,"In the com.google.step_count.delta data type, each data point represents the number of steps taken since the last reading.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_WEIGHT,"In the com.google.weight data type, each data point represents the weight of the user at the time of the reading, in kilograms.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes
+TYPE_WORKOUT_EXERCISE,"In the com.google.activity.exercise data type, each data point represents a single continuous set of a workout exercise performed by a user.",https://developers.google.com/android/reference/com/google/android/gms/fitness/data/DataType,GeneralDataTypes

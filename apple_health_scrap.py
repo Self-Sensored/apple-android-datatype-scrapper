@@ -4,15 +4,6 @@ import re
 from bs4 import BeautifulSoup
 import pandas as pd
 
-# General Datatypes
-# https://developer.apple.com/documentation/healthkit/data_types
-
-# Nutritions Datatypes
-# https://developer.apple.com/documentation/healthkit/data_types/nutrition_type_identifiers
-
-# Symptoms Datatypes
-# https://developer.apple.com/documentation/healthkit/data_types/symptom_type_identifiers
-
 class AppleHealthKitScrapper(ABC):
 
     def __init__(self, html_path=None):
@@ -25,6 +16,7 @@ class AppleHealthKitScrapper(ABC):
         self.items = soup.find_all("div", ["link-block", "topic"])
 
         self.clean_html = re.compile("<.*?>")
+        self.find_link = re.compile("href=\".*?\"")
         self.clean_multi_spaces = re.compile(" +")
 
     @abstractmethod
@@ -38,6 +30,7 @@ class GeneralAppleHealthKitScrapper(AppleHealthKitScrapper):
         for item in list(self.items):
             clean_item = re.sub(self.clean_html, " ", str(item))
             clean_item = re.sub(self.clean_multi_spaces, " ", clean_item)
+            link = re.findall(self.find_link, str(item))[0].replace("href=\"", "").replace("\"", "")
 
             # Only get types
             if "static let " not in str(clean_item):
@@ -63,7 +56,7 @@ class GeneralAppleHealthKitScrapper(AppleHealthKitScrapper):
             description = "".join(description).strip()
 
             health_app_datatypes.append(
-                {"category": category, "datatype": datatype, "description": description}
+                {"category": category, "datatype": datatype, "description": description, "link": link}
             )
 
         return pd.DataFrame(health_app_datatypes)
@@ -107,12 +100,20 @@ class SpecificAppleHealthKitScrapper(AppleHealthKitScrapper):
         return pd.DataFrame(health_app_datatypes)
 
 
+# General Datatypes
+# https://developer.apple.com/documentation/healthkit/data_types
+
+# Nutritions Datatypes
+# https://developer.apple.com/documentation/healthkit/data_types/nutrition_type_identifiers
+
+# Symptoms Datatypes
+# https://developer.apple.com/documentation/healthkit/data_types/symptom_type_identifiers
+
 HTML_FILE_PATH = "/Users/ladvien/Documents/apple_health_data_types.html"
 NUTRITION_HTML_PATH = "/Users/ladvien/Documents/apple_health_nutrition_data_types.html"
 SYMPTOMS_HTML_PATH = "/Users/ladvien/Documents/apple_health_nutrition_data_types_files/apple_health_symptoms_data_types.html"
 
-OUT_GENERAL = "./general_datatypes.csv"
-
+OUT_APPLE = "./apple_datatypes.csv"
 
 scrap = GeneralAppleHealthKitScrapper(HTML_FILE_PATH)
 df1 = scrap.get_dataframe_from_html()
@@ -122,4 +123,4 @@ scrap = SpecificAppleHealthKitScrapper(SYMPTOMS_HTML_PATH)
 df3 = scrap.get_dataframe_from_html()
 
 df = pd.concat([df1, df2, df3])
-df.to_csv(OUT_GENERAL, index=False, encoding='utf-8-sig')
+df.to_csv(OUT_APPLE, index=False, encoding='utf-8-sig')
